@@ -1,0 +1,2 @@
+restaurant/book/
+restaurant/menu/
